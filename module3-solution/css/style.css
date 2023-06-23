@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    border-bottom: 2px solid black;
+}
+#nav-list {
+    text-align: center;
+}
+
+#nav-list a:hover {
+    background: #E7E7E7;
+}
+
+.row {
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    text-align: justify;
+}
+
+.row > h1 {
+    padding-bottom: 20px;
+}
+
+h2 {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.button-top {
+    text-decoration: none;
+    
+}
+
